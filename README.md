@@ -4,6 +4,8 @@
 
 ## Getting Started
 
+Check the site [https://first-app-next-js-beta.vercel.app/](here)
+
 First, run the development server:
 
 ```bash
